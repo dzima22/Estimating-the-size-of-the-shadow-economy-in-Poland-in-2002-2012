@@ -26,4 +26,4 @@
   <img src="https://github.com/dzima22/Estimating-the-size-of-the-shadow-economy-in-Poland-in-2002-2012/blob/main/images/udzial%20szarej%20strefy%20%25.jpg" alt=""/>
 </div>
 
- - This chart shows the estimated percentage share of the shadow economy in Poland from 2002 to 2012 according to this research.
+ - This chart shows `the estimated percentage share of the shadow economy in Poland from 2002 to 2012` according to this research.
